@@ -1,4 +1,3 @@
-# 148-jeepbot-team-01
 # Jeepbot
 
 Jeepbot is an embedded robotics project focused on onboard perception, sensing, and future autonomy integration using a Raspberry Pi and OAK-D cameras.
