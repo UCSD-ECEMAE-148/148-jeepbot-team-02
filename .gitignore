@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+depthai_env/
+.env/
+.DS_Store
+*.log
+.ipynb_checkpoints/
+.vscode/
+data/*
+!data/.gitkeep
+images/*
+!images/.gitkeep
+*.tmp
+*.bak
