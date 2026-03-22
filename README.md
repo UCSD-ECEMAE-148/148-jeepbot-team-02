@@ -2,6 +2,11 @@
 
 Jeepbot is an embedded robotics project focused on onboard perception, sensing, and future autonomy integration using a Raspberry Pi and OAK-D cameras.
 
+Brent Brewster - Electrical & Computer Engineering
+Keenai Braun - Mechanical & Aerospace Engineering
+Yves Mojica - Electrical & Computer Engineering
+Dylan Lee - Mechanical & Aerospace Engineering
+
 ## Current Progress
 
 So far, this project includes:
